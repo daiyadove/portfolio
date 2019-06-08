@@ -1,0 +1,21 @@
+<template>
+    <section>
+        <h1>Skill</h1>
+
+        <ul>
+            <li>PHP</li>
+                <ul>
+                    <li>Laravel</li>
+                </ul>
+            <li>JavaScript</li>
+                <ul>
+                    <li>Vue</li>
+                </ul>
+            <li>Python</li>
+                <ul>
+                    <li>画像解析</li>
+                    <li>機械学習はできません</li>
+                </ul>            
+        </ul>
+    </section>
+</template>
